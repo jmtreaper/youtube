@@ -21,7 +21,7 @@
 - &#127482;&#127480; **chmod 777** `apps/magcore-app-youtube/3.0.13/logs/`
 
 ## &#127479; &#127482; What's new:
-#### 01/26/2021
+#### 04/17/2021
 - Server side trend caching (15 minutes by default)
 - Trends do not change so often, so there is no point in making a request for each client + it is loaded from the cache faster.
 - Language set do default english.
