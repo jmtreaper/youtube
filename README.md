@@ -6,7 +6,7 @@
 
 ## &#127482;&#127480; Mandatory actions
 - &#127482;&#127480; Change your `API_KEY` ([Google Developer Console](https://console.developers.google.com))
-- &#127479;&#127482; &#127482;&#127480; **chmod 777** `apps/magcore-app-youtube/3.0.13/cache/`
+- &#127482;&#127480; **chmod 777** `apps/magcore-app-youtube/3.0.13/cache/`
 
 ## &#127482;&#127480; Optional actions
 ### &#127482;&#127480; English localization by default
@@ -18,9 +18,9 @@
 
 ### &#127482;&#127480; Logging search queries in folder .../logs/
 - &#127482;&#127480; Change `SEARCH_LOGS` to __true__
-- &#127479;&#127482; &#127482;&#127480; **chmod 777** `apps/magcore-app-youtube/3.0.13/logs/`
+- &#127482;&#127480; **chmod 777** `apps/magcore-app-youtube/3.0.13/logs/`
 
-## & # 127479; & # 127482; What's new:
+## &#127479; &#127482; What's new:
 #### 01/26/2021
 - Server side trend caching (15 minutes by default)
 - Trends do not change so often, so there is no point in making a request for each client + it is loaded from the cache faster.
