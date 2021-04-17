@@ -1,14 +1,14 @@
 {
   "name": "YouTube",
-  "date": "26.01.2021",
+  "date": "17.04.2021",
   "version": "4.0.3",
-  "description": "YouTube — популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+  "description": "YouTube — popular world video hosting where users can add, view, comment and share videos with friends.",
   "author": {
-    "name": "gupekmop"
+    "name": "jmtreaper"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gupekmop/youtube.git"
+    "url": "https://github.com/jmtreaper/youtube.git"
   },
   "config": {
     "type": "app",
@@ -16,7 +16,7 @@
     "backgroundColor": "#c12226",
     "name": "YouTube",
     "legacy": true,
-    "description": "YouTube — популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+    "description": "YouTube — popular world video hosting where users can add, view, comment and share videos with friends.",
     "icons": {
       "paths": {
         "480": "apps/magcore-app-youtube/3.0.13/img/480/",
