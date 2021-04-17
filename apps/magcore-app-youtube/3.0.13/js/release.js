@@ -2,7 +2,7 @@
 var DEBUG_MODE = true;
 var CACHE_CIPHER = {};
 var YOUTUBE_PHP = window.location.href.replace(/index\.html$/, "") + "youtube.php";
-var DEFAULT_LANGUAGE_ENGLISH = false; //true - for default English interface & keyboard (trending & search results see youtube.php)
+var DEFAULT_LANGUAGE_ENGLISH = true; //true - for default English interface & keyboard (trending & search results see youtube.php)
 
 function debug(content) {
   if (DEBUG_MODE) {
