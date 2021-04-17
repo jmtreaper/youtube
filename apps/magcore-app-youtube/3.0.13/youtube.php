@@ -7,13 +7,13 @@ $CFG = [
     "index" => [
         "cacheTime" => 15, //кол-во минут кеширования трендов на стороне сервера / trending caching in minutes on server side
         "maxResults" => 50, //кол-во видео на главной / video count for trending [1-50]
-        "regionCode" => "RU", //по какому региону искать тренды / region for trending, RU - Россия, UA - Украина, BY - Беларусь (другие страны смотреть ISO 3166-1 alpha-2)
-        "hl" => "ru-RU",
+        "regionCode" => "US", //по какому региону искать тренды / region for trending, RU - Россия, UA - Украина, BY - Беларусь (другие страны смотреть ISO 3166-1 alpha-2)
+        "hl" => "en-US",
     ],
     "search" => [
         "maxResults" => 50, //кол-во видео в поиске / video count for searching [1-50]
-        "regionCode" => "RU", //по какому региону поиск / region for searching, RU - Россия, UA - Украина, BY - Беларусь (другие страны смотреть ISO 3166-1 alpha-2)
-        "hl" => "ru-RU",
+        "regionCode" => "US", //по какому региону поиск / region for searching, RU - Россия, UA - Украина, BY - Беларусь (другие страны смотреть ISO 3166-1 alpha-2)
+        "hl" => "en-US",
     ],
     "novideos" => "Нет видео", //текст для каналов без загруженных видео / text for channels without videos
 ];
